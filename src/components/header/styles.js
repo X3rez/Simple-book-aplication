@@ -9,7 +9,7 @@ export const Container = styled.div`
 `
 export const Logo = styled.img`
     height:2.5em;
-    margin-left:1em;
+    margin-left:9%;
 `
 export const Ul = styled.ul`
     display:flex;
