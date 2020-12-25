@@ -1,4 +1,4 @@
-## This is an app to find Books
+## This is an application to find your favorite Books
 
 You can type in console 
 
