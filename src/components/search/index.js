@@ -43,7 +43,7 @@ function Searcher(){
     return (
         <>
             <Div>
-                <Input onChange={hadlerInput} type='text' placeholder="Busca Tu Libro" ref={refe}/>            
+                <Input onChange={hadlerInput} type='text' placeholder="Search your book" ref={refe}/>            
             </Div>
             {books 
                 ? <BookContainer>
