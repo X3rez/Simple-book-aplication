@@ -15,5 +15,5 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 
-![instagram_clone](coverHome.png)
-![instagram_clone](coverSearch.png)
+![Simple_Book](coverHome.png)
+![Simple_Book](coverSearch.png)
