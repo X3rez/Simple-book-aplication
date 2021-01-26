@@ -1,7 +1,19 @@
-## This is an application to find your favorite Books
+# Simple Book App
 
-You can type in console 
+### Demo:
+https://happy-swartz-61528a.netlify.app/
 
-### `npm init`
+In the project directory, you can run:
 
-To download the modules
+### `npm install`
+
+to install all of the necesary to run this project in your text editor
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.<br />
+
+![instagram_clone](coverHome.png)
+![instagram_clone](coverSearch.png)
